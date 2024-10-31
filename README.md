@@ -4,4 +4,4 @@ Team Name : Brahma Wheel. The team consists of five members
 2. Brother Dao: VUE front-end engineer who has been engaged in WEB3 development for 4 years. Participated in the front-end design of many DEFIs.
 3. Mark Ban: An algorithm engineer who is very proficient in game algorithms and has designed basic game algorithms for Metaverse Combat, Galactic Empire, and BlockWorld.
 4. Odessa: Test engineer, involved in BlockWorld game testing. Completed most of the game's bug testing and modifications. Optimized the game process.
-5. Lucy：Team operation, participated in all team projects
+5. Serein：Team operation, participated in all team projects
